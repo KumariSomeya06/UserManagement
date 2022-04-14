@@ -1,0 +1,44 @@
+.container{
+
+        align-content: center;
+};
+
+.employee-form{
+    text-align: center;
+}
+
+#inp1{
+    margin-left: 40px;
+
+}
+#inp2{
+    margin-left: 199px;
+
+}
+#inp3{
+    margin-left: 215px;
+
+}
+
+form{
+    padding-bottom: 10px;
+}
+button{
+    padding: 6px;
+    margin-bottom: 10px;
+    color: blue;
+    border: 3px solid #008CBA;
+     
+
+}
+
+input{
+    width: 20%;
+    margin: 10px 65px;
+    box-sizing: border-box;  
+    padding: 5px;
+}
+
+#label{
+    font-size: 2em;
+}
